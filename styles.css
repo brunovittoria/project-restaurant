@@ -1,0 +1,35 @@
+body{
+    font-family: Roboto, sans-serif;
+}
+
+.navbar {
+    background-color: #e15f41;
+}
+
+.nav.nav-pills .nav-link.active{
+    background-color: #fff;
+    color: #e15f41;
+}
+
+.nav .nav-link, 
+.navbar-brand, 
+.navbar-brand:hover {
+    color: #fff;
+}
+
+.navbar-brand{
+    font-family: Pacifico, cursive;
+    font-size: 2rem;
+}
+
+.section-title{
+    font-family: Pacifico, cursive;
+}
+
+.section-title span{
+    color: #e15f41;
+}
+
+#sobre-o-restaurante {
+    background-color: #ffeae6;
+}
